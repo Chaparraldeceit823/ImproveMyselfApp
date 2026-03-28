@@ -36,11 +36,12 @@ ImproveMyself is a comprehensive Android lifestyle management application design
 ---
 
 ## 📸 Screenshots
-![1000146780](https://github.com/user-attachments/assets/c2fe2808-6a1a-4673-af49-bdd5e9774802)
-
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71827dda-7b00-4d06-835b-7236e83b3fe5" width="220" title="Goal Countdown">
+  <img src="https://github.com/user-attachments/assets/c5563041-447a-4910-9e9a-709e07108ffe" width="220" title="Workouts">
+  <img src="https://github.com/user-attachments/assets/26479cc8-7962-4d0c-a6ed-c71beea4723c" width="220" title="Diet">
+  <img src="https://github.com/user-attachments/assets/3ca3224c-d044-48e9-a6eb-447e1fdc0641" width="220" title="Movies">
+</p>
 ---
 
 ## 🚀 Getting Started
