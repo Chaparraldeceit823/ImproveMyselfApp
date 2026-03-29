@@ -12,7 +12,7 @@ ImproveMyself is a comprehensive Android lifestyle management application design
 * **✅ Habit Tracker:** Create custom daily habits. Check them off in the tracker to keep your streaks alive.
 * **📸 Daily Progress Tracker:** 
     * Log healthy eating and workout completion.
-    * Add **4 Progress Photos** per day to visually track your transformation.
+    * Add **a Progress Photo** for each day to visually track your transformation.
     * Automatic persistence ensures your daily logs aren't lost on restart.
 * **🎬 Movie Goals:** Set a weekly movie target. The app tracks how many movies you've watched this week and shows your remaining goal (e.g., 2/4 movies).
 * **🍎 Diet List:** Maintain a persistent list of allowed or recommended foods for your specific nutrition plan.
